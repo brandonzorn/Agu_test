@@ -66,9 +66,9 @@ def caesars_cipher():
 
 
 if __name__ == '__main__':
-    # print_line_by_num()
-    # count_prices()
-    # king_move()
+    print_line_by_num()
+    count_prices()
+    king_move()
     count_of_words()
-    # caesars_cipher()
-    # less_nums()
+    caesars_cipher()
+    less_nums()
